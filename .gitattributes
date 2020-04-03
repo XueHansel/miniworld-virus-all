@@ -1,0 +1,6 @@
+*.html linguist-language=python
+*.toc linguist-language=python
+*.vbw linguist-language=Visual Basic
+*.SCC linguist-language=Visual Basic
+*.bas linguist-language=Visual Basic
+*.vbp linguist-language=Visual Basic
